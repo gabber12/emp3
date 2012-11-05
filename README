@@ -1,1 +1,4 @@
 The application allows searching and downloading mp3 songs from website www.emp3world.com.
+The gui version gives a gtk menu to search.
+The Program uses web scraping to get the search results and shows the results the user can select the song.
+Currently a simple downloader is implemented, trying to implement the dynamic piece wise downloader.
